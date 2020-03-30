@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pertemuan1</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini tampilan hasil</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="labelmenu1">Form Registrasi</string>
+    <string name="nama">Nama</string>
+    <string name="almat">Alamat</string>
+    <string name="telp">No Telp</string>
+    <string name="btndftr">DAFTAR</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_telp">Masukkan No Telepon</string>
+    <string name="Menu1">Menu1</string>
+    <string name="Menu2">Menu2</string>
+    <string name="txtMenu2">Tampilkan Hasil Menu 2</string>
+    <string name="Menu3">Menu3</string>
+    <string name="txtMenu3">Tampilkan Hasil Menu 3</string>
+</resources>
